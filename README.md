@@ -9,4 +9,4 @@ Terminer le code de l'application et validé les test unitaires et instrumantili
 
 P3_aboutard_julien
 Nom de l'application: EntreVoisins
-Développer de nouvelles fonctionnalités et les test unitaires et d'intégrations.
+Développer de nouvelles fonctionnalités et les tests unitaires et d'intégrations.

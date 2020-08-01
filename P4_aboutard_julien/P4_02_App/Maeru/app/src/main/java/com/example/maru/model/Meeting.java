@@ -22,7 +22,7 @@ public class Meeting {
 
     /** List of email*/
     private Email email;
-    
+
     public Meeting(long id, Date date, String location, String meetingSubject, Email email) {
         this.id = id;
         this.date = date;
